@@ -1,0 +1,19 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+
+.btn-primary{
+    background: aquamarine;
+}
+
+body{
+    background: red;
+}
+
+.photo{
+    width: 300px;
+
+    img{
+        width: 100%;
+        object-fit: contain;
+    }
+}
